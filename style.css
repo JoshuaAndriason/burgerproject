@@ -1,4 +1,8 @@
 #position {
     text-align: center;
-    margin: 300px
+    margin: 300px;
+}
+
+body {
+    background-color: cornflowerblue;
 }
